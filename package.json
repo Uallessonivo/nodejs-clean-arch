@@ -17,6 +17,9 @@
       "pre-commit": "lint-staged"
     }
   },
+  "standard": {
+    "env": ["jest"]
+  },
   "author": "Uallesson Nunes Ivo",
   "license": "ISC",
   "devDependencies": {
